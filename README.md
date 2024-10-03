@@ -8,6 +8,7 @@ User Features:
 + Registration and Login
 + Make Reservations
 + View Reservation History
+
 Admin Features:
 + Admin Login
 + Manage Reservations
